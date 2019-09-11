@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am xtiinah on github.
+  * I am xtinah (https://keybase.io/xtinah) on keybase.
+  * I have a public key ASCxYaEfYI1rOUO59B3sPnZiQkwZ7PXlS0ngipzRsKEwswo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b161a11f608d6b3943b9f41dec3e7662424c19ecf5e54b49e08a9cd1b0a130b30a",
+      "host": "keybase.io",
+      "kid": "0120b161a11f608d6b3943b9f41dec3e7662424c19ecf5e54b49e08a9cd1b0a130b30a",
+      "uid": "5339a0fd961960120fab15fa22e32019",
+      "username": "xtinah"
+    },
+    "merkle_root": {
+      "ctime": 1568188473,
+      "hash": "c04753640714f42f0fdfe7189e89c1bbd4d9529579a668ee4dd43266c35c8af7f3c139c8cbda973fba138f71b6f8adea275211b8b36bd50b88ee2d78f43fdfdf",
+      "hash_meta": "50892a0379d6dd3484b7eff9c9ad8324be3068fab06a125fb97f62694fe99c4d",
+      "seqno": 6636359
+    },
+    "service": {
+      "entropy": "hkB8J517M/08FpGjf5uGlb4M",
+      "name": "github",
+      "username": "xtiinah"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568188481,
+  "expire_in": 504576000,
+  "prev": "6874e02b0a3df12fe658381e9b4d1d400e10a4781530009e923432eaaf29df06",
+  "seqno": 10,
+  "tag": "signature"
+}
+```
+
+with the key [ASCxYaEfYI1rOUO59B3sPnZiQkwZ7PXlS0ngipzRsKEwswo](https://keybase.io/xtinah), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgsWGhH2CNazlDufQd7D52YkJMGez15UtJ4Iqc0bChMLMKp3BheWxvYWTESpcCCsQgaHTgKwo98S/mWDgem00dQA4QpHgVMACekjQy6q8p3wbEIK79RZRQM26Z32zO2ZjqJdf9QuyGDfT4yejhgXyQVsBOAgHCo3NpZ8RAXwqpi5WbC5MzKcGHgbI0OypQoMYpMA3tx6zZeI6BVGbHZRZ5rCyDVuYVZ1EJ9h1Q6vUpqQtfXRlWEo21ZtoZB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPLOJ6PVi3MVbTOzuE1z7m2CoFPmMrCpUsawrLw8HH+Do3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/xtinah
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id xtinah
+```
